@@ -8,9 +8,6 @@ I am a Computer Science student focusing my career entirely on Cybersecurity, sp
 * Working as an IT Intern in São Paulo, Brazil, handling Level 1 and Level 2 technical support, hardware/software diagnostics, and network infrastructure maintenance.
 * Actively completing the Google Cybersecurity Professional Certificate to build strong practical foundations in threat detection, risk management, and SIEM operations.
 
-### Featured Projects
-* **AI-Assisted Help Desk System:** Mapped internal IT processes and implemented a structured ticketing system using Artificial Intelligence to centralize and automate ticket triage. This project significantly reduced incident response times and optimized the IT department's escalation matrix, applying logic similar to defensive alert triage.
-
 ### Tech Stack & Core Skills
 * **Security Concepts:** Incident Response Playbooks, SOC Fundamentals, Threat Monitoring, Risk Analysis.
 * **Infrastructure:** Network Troubleshooting, Access Control, Hardware Diagnostics.
@@ -34,11 +31,6 @@ Sou estudante de Ciência da Computação com a carreira totalmente direcionada 
 
 ### Projetos em Destaque
 * **Sistema de Help Desk auxiliado por IA:** Mapeamento de processos internos de TI e implementação de um sistema estruturado de chamados utilizando Inteligência Artificial para centralizar e automatizar a triagem. Este projeto reduziu significativamente o tempo de resposta a incidentes e otimizou a matriz de escalonamento do setor, aplicando uma lógica semelhante à triagem de alertas defensivos.
-
-### Tecnologias e Habilidades Principais
-* **Conceitos de Segurança:** Playbooks de Resposta a Incidentes, Fundamentos de SOC, Monitoramento de Ameaças, Análise de Riscos.
-* **Infraestrutura:** Diagnóstico e Resolução de Problemas em Redes, Controle de Acessos, Diagnóstico de Hardware.
-* **Ferramentas e Linguagens:** Python, Power BI.
 
 ### Contato
 * **LinkedIn:** [Gabriel Gomes](https://www.linkedin.com/in/gabrieldesouzagomes/)
