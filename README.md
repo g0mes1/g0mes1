@@ -8,33 +8,17 @@
 
 <br>
 
-## Resumo Profissional
+## Sobre
 
-Profissional de TI em transição para Cibersegurança (SOC/Blue Team), com experiência prática em suporte de infraestrutura e resposta a incidentes. Sólidos conhecimentos em redes e mitigação de riscos. Desenvolvo continuamente habilidades de monitoramento e detecção de ameaças através de laboratórios práticos envolvendo configuração e análise de logs em soluções SIEM. Foco em proteger ativos corporativos e garantir a continuidade de negócios.
-
-<br>
-
-## Experiência Profissional
-
-**Estagiário em Informática** — Subprefeitura de Parelheiros, São Paulo, SP
-*02/2026 – Presente*
-Prestação de suporte técnico de 1º e 2º nível, realizando diagnóstico e resolução de incidentes envolvendo hardware, software e infraestrutura de rede corporativa.
-
-**Assistente Geral (Autônomo)** — Costa Commerce, São Paulo, SP
-*05/2022 – 02/2026*
-Atuação direta em Resposta a Incidentes (IR): execução de contenção de ameaça na rede (infecção por malware/worm) e recuperação integral dos dados e sistemas críticos por meio de políticas de backup. Manutenção preventiva e corretiva de hardwares e ativos tecnológicos operacionais, reduzindo o tempo de inatividade.
-
-**Auxiliar Administrativo (Jovem Aprendiz)** — CHUBB Seguros, São Paulo, SP
-*02/2021 – 05/2022*
-Apoio operacional focado em auditoria de documentos internos, emissão de certificados e estruturação de relatórios para controle de conformidade e compliance.
+Estudante de Ciência da Computação (conclusão prevista para julho de 2027) em transição de TI para Cibersegurança, com foco em Segurança Defensiva, Blue Team e SOC. Atuo hoje na área de suporte técnico e já tive experiência prática em resposta a incidentes, o que sustenta o interesse por monitoramento, detecção de ameaças e triagem de alertas. Estudo continuamente através do Google Cybersecurity Professional Certificate e de laboratórios próprios de segurança.
 
 <br>
 
-## Projeto Pessoal
+## Projeto em Destaque
 
 **SOC Mini-Lab**
 
-Laboratório pessoal de monitoramento de segurança, voltado à prática de atividades de um analista SOC N1: ingestão de logs, criação de regras de detecção, geração e triagem de alertas e documentação de resposta a incidentes. A documentação do projeto está sendo estruturada e será publicada neste perfil.
+Laboratório pessoal de monitoramento de segurança, construído para praticar as atividades de um analista SOC N1: ingestão de logs, criação de regras de detecção, geração e triagem de alertas, e documentação de resposta a incidentes. A documentação do projeto está em estruturação e será publicada neste perfil.
 
 <br>
 
@@ -52,37 +36,19 @@ Laboratório pessoal de monitoramento de segurança, voltado à prática de ativ
 
 ![TCP/IP](https://img.shields.io/badge/Protocolos%20TCP%2FIP-10161F?style=for-the-badge&labelColor=0A0E14&color=F2A93B)
 ![Linux/Windows](https://img.shields.io/badge/Administra%C3%A7%C3%A3o%20Linux%20%2F%20Windows-10161F?style=for-the-badge&logo=linux&logoColor=F2A93B&labelColor=0A0E14)
-![Fault Diagnosis](https://img.shields.io/badge/Diagn%C3%B3stico%20de%20Falhas-10161F?style=for-the-badge&labelColor=0A0E14&color=F2A93B)
 ![Suporte Técnico](https://img.shields.io/badge/Suporte%20T%C3%A9cnico-10161F?style=for-the-badge&labelColor=0A0E14&color=F2A93B)
 
-**Técnicas e Ferramentas**
+**Ferramentas**
 
 ![Python](https://img.shields.io/badge/Python-10161F?style=for-the-badge&logo=python&logoColor=4FD8C4&labelColor=0A0E14)
 ![Bash](https://img.shields.io/badge/Linux%20(Bash)-10161F?style=for-the-badge&logo=gnubash&logoColor=4FD8C4&labelColor=0A0E14)
 ![Power BI](https://img.shields.io/badge/Power%20BI-10161F?style=for-the-badge&logo=powerbi&logoColor=F2A93B&labelColor=0A0E14)
-![Office](https://img.shields.io/badge/Pacote%20Office-10161F?style=for-the-badge&labelColor=0A0E14&color=F2A93B)
 
 <br>
 
-## Formação Acadêmica
+## Em Andamento
 
-**Bacharelado em Ciência da Computação**
-Universidade Estácio de Sá (UNESA) — Previsão de conclusão: julho de 2027
-
-<br>
-
-## Certificações e Cursos
-
-- **Google Cybersecurity Professional Certificate** — Foundations of Cybersecurity, Manage Security Risks (Play It Safe). *Em andamento.*
-- **LGPD: Privacidade e Proteção de Dados Pessoais** (40h)
-- **Microsoft: Introdução à Análise de Dados / Power BI**
-- **TECNS: Informática / Hardware e Redes**
-
-<br>
-
-## Idiomas
-
-Português (Nativo) · Inglês (Intermediário) · Espanhol (Básico)
+**Google Cybersecurity Professional Certificate** — Foundations of Cybersecurity, Manage Security Risks (Play It Safe)
 
 <br>
 
