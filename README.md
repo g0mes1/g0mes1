@@ -21,8 +21,6 @@ Para chegar na minha vaga de Analista SOC N1, estou fazendo o Certificado de Cyb
 
 ---
 
-### 🇺🇸 English Version
-
 **Gabriel Gomes**
 **Cybersecurity Focus | SOC L1 & Blue Team | Computer Science Student**
 
