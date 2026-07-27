@@ -1,37 +1,45 @@
-### Hi there, I'm Gabriel Gomes
-**Cybersecurity Enthusiast | SOC & Incident Response Focus | Computer Science Student**
+**Gabriel Gomes**
+**Foco em Cibersegurança | SOC N1 & Blue Team | Estudante de Ciência da Computação**
 
-I am a Computer Science student focusing my career entirely on Cybersecurity, specifically Defensive Security (Blue Team) and Security Operations Center (SOC) environments. I have practical experience in IT infrastructure, access control, and process mapping, which I use as a foundation for understanding network vulnerabilities and structuring incident response protocols.
+Eu sou o Gabriel, faço Ciência da Computação (com formatura para Jul / 2027) e meu objetivo de carreira é direto ao ponto: Segurança Defensiva, Blue Team e SOC.
 
-### About Me
-* Pursuing a Bachelor's degree in Computer Science at Universidade Estácio de Sá (Expected graduation: July 2027).
-* Working as an IT Intern in São Paulo, Brazil, handling Level 1 and Level 2 technical support, hardware/software diagnostics, and network infrastructure maintenance.
-* Actively completing the Google Cybersecurity Professional Certificate to build strong practical foundations in threat detection, risk management, and SIEM operations.
+Atualmente, trabalho na linha de frente do suporte de TI (Níveis 1 e 2, redes e hardware). Uso meu dia a dia na prática para entender como uma infraestrutura funciona de verdade, como os acessos são feitos e onde os processos falham. Para mim, quem sabe consertar e montar uma rede, sabe como defender.
 
-### Tech Stack & Core Skills
-* **Security Concepts:** Incident Response Playbooks, SOC Fundamentals, Threat Monitoring, Risk Analysis.
-* **Infrastructure:** Network Troubleshooting, Access Control, Hardware Diagnostics.
-* **Tools & Languages:** Python, Power BI.
+Para chegar na minha vaga de Analista SOC N1, estou fazendo o Certificado de Cybersecurity do Google, focando no que uso na prática: ferramentas de SIEM, detecção de ameaças e playbooks de resposta a incidentes.
 
-### Connect with me
+**Projeto em Destaque:**
+* **Help Desk com IA:** Mapeei os processos de TI de onde trabalho e criei um sistema de chamados usando Inteligência Artificial para fazer a triagem automática. Usei a mesma lógica de priorização que um analista usa para categorizar alertas defensivos, reduzindo o tempo de resposta da equipe.
+
+**Tecnologias e Habilidades:**
+* **Segurança:** Fundamentos de SOC, Monitoramento de Ameaças, Análise de Risco, Resposta a Incidentes.
+* **Infraestrutura:** Troubleshooting de Redes, Controle de Acesso, Manutenção de Hardware.
+* **Ferramentas:** Python, Power BI.
+
+**Contato:**
 * **LinkedIn:** [Gabriel Gomes](https://www.linkedin.com/in/gabrieldesouzagomes/)
-* **Email:** gabriel.dszgomes@gmail.com
+* **E-mail:** gabriel.dszgomes@gmail.com
 
 ---
 
-### Olá, eu sou o Gabriel Gomes
-**Entusiasta de Cibersegurança | Foco em SOC e Resposta a Incidentes | Estudante de Ciência da Computação**
+### 🇺🇸 English Version
 
-Sou estudante de Ciência da Computação com a carreira totalmente direcionada para a área de Cibersegurança, especificamente Segurança Defensiva (Blue Team) e ambientes de Centro de Operações de Segurança (SOC). Tenho experiência prática em infraestrutura de TI, controle de acessos e mapeamento de processos, utilizando isso como base para compreender vulnerabilidades de rede e estruturar protocolos de resposta a incidentes.
+**Gabriel Gomes**
+**Cybersecurity Focus | SOC L1 & Blue Team | Computer Science Student**
 
-### Sobre Mim
-* Cursando Bacharelado em Ciência da Computação na Universidade Estácio de Sá (Previsão de formatura: Julho de 2027).
-* Atuando como Estagiário de TI, responsável por suporte técnico de Níveis 1 e 2, diagnóstico de hardware e software e manutenção da infraestrutura de rede.
-* Cursando ativamente o Certificado Profissional Google Cybersecurity para construir uma base prática sólida em detecção de ameaças, gestão de riscos e operações de SIEM.
+I am Gabriel, a Computer Science student (graduating Jul / 2027) with a clear career goal: Defensive Security, Blue Team, and SOC.
 
-### Projetos em Destaque
-* **Sistema de Help Desk auxiliado por IA:** Mapeamento de processos internos de TI e implementação de um sistema estruturado de chamados utilizando Inteligência Artificial para centralizar e automatizar a triagem. Este projeto reduziu significativamente o tempo de resposta a incidentes e otimizou a matriz de escalonamento do setor, aplicando uma lógica semelhante à triagem de alertas defensivos.
+I currently work on the front lines of IT support (L1 and L2, networks, and hardware). I use my daily practical experience to understand how infrastructure actually works, how access is managed, and where processes fail. For me, if you know how to build and fix a network, you know how to defend it.
 
-### Contato
+To land my first SOC L1 role, I am completing the Google Cybersecurity Certificate, focusing on practical skills: SIEM tools, threat detection, and incident response playbooks.
+
+**Featured Project:**
+* **AI-Assisted Help Desk:** I mapped internal IT processes at my workplace and built a ticket system using Artificial Intelligence for automatic triage. I applied the same prioritization logic a security analyst uses to categorize defensive alerts, heavily reducing the team's response time.
+
+**Tech Stack & Skills:**
+* **Security:** SOC Fundamentals, Threat Monitoring, Risk Analysis, Incident Response.
+* **Infrastructure:** Network Troubleshooting, Access Control, Hardware Maintenance.
+* **Tools:** Python, Power BI.
+
+**Contact:**
 * **LinkedIn:** [Gabriel Gomes](https://www.linkedin.com/in/gabrieldesouzagomes/)
 * **Email:** gabriel.dszgomes@gmail.com
